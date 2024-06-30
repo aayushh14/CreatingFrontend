@@ -104,7 +104,8 @@ export default function HomePage() {
 
   return (
     <main className="container">
-      <header><h1>Welcome to the Metacrafters ATM!</h1></header>
+      <header><h1>Welcome to the Function Test Bank</h1></header>
+      <header><h1>By- Ayush Chaudhary</h1></header>
       {initUser()}
       <style jsx>{`
         .container {
